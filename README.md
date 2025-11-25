@@ -2,7 +2,7 @@
 - I’m interested in studying various aspects of low-level game development, such as structure of engines,
 - rendering techniques, realization of ingame physics, 3D modeling, procedural texturing and much more.
 - I have some experience in Java, while currently coding on C++.
-- I’m currently learning Vulkan and practicing Blender modeling in free time.
+- I’m currently learning Vulkan and practicing Blender modeling in ~~free time~~ ***free time is an ancient legend.***.
 
 <!---
 Sonmirean/Sonmirean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
