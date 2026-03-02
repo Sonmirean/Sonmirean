@@ -24,7 +24,7 @@ Young DevOps engineer. You can find me in the terminal's darkness most of the ti
 
 ---
 
-*Continouos офигевание, Continuous learning.*
+*Continuouos офигевание, Continuous learning.*
 
 <!---
 Sonmirean/Sonmirean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
