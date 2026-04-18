@@ -2,7 +2,7 @@
 
 Software Engineer · DevOps · Graphics Programmer
 
-A DevOps / Software Engineer with a vast range of interests. You can find me in the terminal's darkness most of the time.
+A DevOps / Software Engineer with a vast range of interests.
 
 ---
 
