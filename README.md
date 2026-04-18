@@ -18,7 +18,7 @@ A DevOps / Software Engineer with a vast range of interests.
 
 ### I'm interested in
 - **Machine learning / MLOps** I'm learning OpenCV and Kubeflow in free time.
-- **Game development industry** Practicing Unreal Engine, ~~TIC80~~, and sometimes Unity in free time. Always open to Junior game dev vacancies!
+- **Game development industry** Practicing Unreal Engine, ~~TIC80~~, and sometimes Unity in free time. Always open to game dev vacancies!
 - **3D Art** I love making models in Blender, and have some practice in Substance Painter. Want to put my skills to work one day.
 - **Digital & Traditional art** I'm very proficient in Adobe Photoshop and Illustrator. Also have some experience in font~~forging~~ smithing.
 
